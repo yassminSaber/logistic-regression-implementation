@@ -1,1 +1,1 @@
-# logistic-regression-implementation
+# CHD predictor using logistic-regression
