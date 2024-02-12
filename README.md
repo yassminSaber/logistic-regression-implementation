@@ -7,7 +7,7 @@
 ## Logistic Regression from scratch 
 
 - what is logistic regression ?
-Logistic Regression is a statistical method used for binary classification problems, where the outcome variable is categorical and has two classes (e.g., 0 or 1, True or False). It is commonly employed in machine learning and statistics to model the probability of an instance belonging to a particular class.
+- Logistic Regression is a statistical method used for binary classification problems, where the outcome variable is categorical and has two classes (e.g., 0 or 1, True or False). It is commonly employed in machine learning and statistics to model the probability of an instance belonging to a particular class.
 The logistic regression model uses the logistic function (also known as the sigmoid function) to transform a linear combination of input features into a value between 0 and 1. The logistic function is defined as:
 
 σ(z)= 1 / 1 + exp(-z)
